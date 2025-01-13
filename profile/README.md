@@ -1,5 +1,9 @@
 EventRPC standardizes communication of native and web clients with event sourced backend services, increasing productivity, maintainability, performance, and developer experience.
 
+## Where do I start?
+
+Try looking at the (Specification)[https://github.com/event-rpc/event-rpc-specification]
+
 ## Roadmap
 
 -   [ ] Develop a simple JS Client that is framework agnostic
