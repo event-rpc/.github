@@ -2,7 +2,7 @@ EventRPC standardizes communication of native and web clients with event sourced
 
 ## Where do I start?
 
-Try looking at the (Specification)[https://github.com/event-rpc/event-rpc-specification]
+Try looking at the [Specification](https://github.com/event-rpc/event-rpc-specification)
 
 ## Roadmap
 
