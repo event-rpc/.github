@@ -1,6 +1,6 @@
 EventRPC standardizes communication of native and web clients with event sourced backend services, increasing productivity, maintainability, performance, and developer experience.
 
-![[What it is.png]]
+![What it is](What%20it%20is.png)
 
 ## Where do I start?
 
