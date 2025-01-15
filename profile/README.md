@@ -1,5 +1,7 @@
 EventRPC standardizes communication of native and web clients with event sourced backend services, increasing productivity, maintainability, performance, and developer experience.
 
+![[What it is.png]]
+
 ## Where do I start?
 
 Try looking at the [Specification](https://github.com/event-rpc/event-rpc-specification)
